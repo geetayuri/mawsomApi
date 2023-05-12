@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "645dcc2c0b6de64620a79731"
+  },
+  "name": "แมวส้ม",
+  "department": "hod",
+  "testnumber": 123
+},{
+  "_id": {
+    "$oid": "645e00052afa5fe72c54079a"
+  },
+  "name": "แมวทอง",
+  "department": "Goldmaw",
+  "testnumber": 888
+},{
+  "_id": {
+    "$oid": "645e09e80b6de64620a79734"
+  },
+  "name": "แมวส้ม",
+  "department": "hod",
+  "testnumber": 7777
+}]
